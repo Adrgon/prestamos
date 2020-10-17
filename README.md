@@ -1,4 +1,4 @@
-# prestamos
+# PRESTAMOS
 ## Aplicacion de PRESTAMOS React Native.
 
 ### Configuracion React Native CLI
